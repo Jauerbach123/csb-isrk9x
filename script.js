@@ -121,7 +121,7 @@ function printResults() {
   !isDraw
     ? playerWon
       ? (textArea.innerText += "YOU WIN !!!")
-      : (textArea.innerText += "YOU LOST, u really just lost to a website!!!")
+      : (textArea.innerText += "YOU really just deadass lost to a code")
     : (textArea.innerText += "DRAW !!!");
 }
 
